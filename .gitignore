@@ -1,0 +1,7 @@
+data/train.csv
+data/test.csv
+data/*.pkl
+data/*.png
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
